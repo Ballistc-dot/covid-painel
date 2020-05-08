@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Painel Image
+## Panel Image
 
 ![alt text](https://github.com/Ballistc-dot/covid-painel/blob/master/src/assets/painel-image.png)
 
