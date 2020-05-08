@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Ballistc-dot/covid-painel/blob/master/src/assets/virus-4937553_1920.jpg)
 In the project directory, you can run:
 
 ### `yarn start`
