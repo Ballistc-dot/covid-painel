@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a simple panel to show coronavirus numbers in brazil 
 
 ## Available Scripts
-
+![alt text](https://github.com/Ballistc-dot/covid-painel/blob/master/src/assets/virus-4937553_1920.jpg)
 In the project directory, you can run:
 
 ## Api
