@@ -9,13 +9,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a simple panel to show coronavirus numbers in brazil 
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Api
 
 Api by: https://covid19.mathdro.id/api/countries/
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `yarn start`
 
