@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&display=swap');
+
+html,body{
+  left: 0;
+  right: 0;
+  margin:0;
+  justify-content: center;
+  padding: 0;
+  height: 100%;
+  width:100%;
+  background-image: url('./assets/virus-4937553_1920.jpg');
+  background-repeat: no-repeat;
+  
+}
+
+@media screen and (min-width:1232px){
+  html,body{
+    background-size: 100% !important;
+  } 
+    
+}
+*{
+font-family: roboto,sans-serif;
+margin: 0;
+}
+#opacity{
+  background: black;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin-top: 70px;
+  opacity: 75%;
+}

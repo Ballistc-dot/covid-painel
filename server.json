@@ -1,0 +1,13 @@
+{
+  "cases":{
+    "confirmed":{
+      "value":20000
+    },
+    "deaths":{
+      "value":1212
+    },
+    "recovered":{
+      "value":1400
+    }
+  }
+}
